@@ -20,7 +20,7 @@
   - [🛠 Under Active Development](#-under-active-development)
 - [🔄 Token Swapping & Liquidity](#-token-swapping--liquidity)
 - [📊 Token Metrics & Analytics](#-token-metrics--analytics)
- [🔐🪙 Token Wallets](#token-wallets)
+- [🔐🪙 Token Wallets](#token-wallets)
 - [✍️ Want to Create Your Own Token?](#️-want-to-create-your-own-token)
   - [🧑‍🎓 Bonus Learning Resources](#-bonus-learning-resources)
 - [✅ Final Notes](#-final-notes)
