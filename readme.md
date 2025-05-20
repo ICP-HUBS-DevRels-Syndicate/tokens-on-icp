@@ -20,6 +20,7 @@
   - [🛠 Under Active Development](#-under-active-development)
 - [🔄 Token Swapping & Liquidity](#-token-swapping--liquidity)
 - [📊 Token Metrics & Analytics](#-token-metrics--analytics)
+ [🔐🪙 Token Wallets](#token-wallets)
 - [✍️ Want to Create Your Own Token?](#️-want-to-create-your-own-token)
   - [🧑‍🎓 Bonus Learning Resources](#-bonus-learning-resources)
 - [✅ Final Notes](#-final-notes)
@@ -201,6 +202,17 @@ A curated list of **actively maintained token launchers** on ICP—great for dev
   * [DexScreener for IC](https://dexscreener.com/icp)
 
   * [ICP Swap](https://info.icpswap.com/)
+
+### Token Wallets
+
+- [AstroX Me](https://astrox.me/#/) - Canister-based mobile/web multi-chain wallet.
+- [Bitfinity](https://wallet.infinityswap.one/) - Chrome extension.
+- [ICRC-1 Wallet](https://github.com/research-ag/wallet) - Canister-based wallet for ICRC-1 compliant tokens.
+- [Internet Identity](https://github.com/dfinity/internet-identity) - Pseudoymous authentication system for the Internet Computer.
+- [NFID](https://nfid.one/) - Digital identity for signing in to applications privately and securely.
+- [NNS Dapp](https://nns.ic0.app/) - Stake ICP in neurons, participate in governance and decentralization sales.
+- [Plug](https://plugwallet.ooo/) - Chrome extension and mobile wallet.
+- [Stoic](https://www.stoicwallet.com/) - Web wallet.
 
 ## ✍️ Want to Create Your Own Token?
 Check out this documentation:
